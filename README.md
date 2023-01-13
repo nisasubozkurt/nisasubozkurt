@@ -9,6 +9,7 @@ To succeed is to have two ears for people who are not wanted to be heard, and tw
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- GİF -->
  <img align="right" alt="GIF" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" width="500" height="320" />
  
 <a href="https://www.linkedin.com/in/nisasubozkurt/">
