@@ -25,6 +25,7 @@ To succeed is to have two ears for people who are not wanted to be heard, and tw
         <b>Languages:</b>
         <br><br>
         <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/></code>
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
         <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></code>
         <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
