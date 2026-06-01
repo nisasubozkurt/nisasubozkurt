@@ -11,9 +11,11 @@ I am a Software Engineering Graduate, AI & Research enthusiast, and a Swimmer wi
 <!-- GİF -->
  <img align="right" alt="GIF" src="https://images-cdn.newscred.com/Zz04NjA3ZjljMjQ0ODkxMWViOWRjYzU1OGJkNjI1ZjVkZA==" width="500" height="320" />
  
-<a href="https://www.linkedin.com/in/nisasubozkurt/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/nisasubozkurt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nisasubozkurt.nisasubozkurt)  
 
