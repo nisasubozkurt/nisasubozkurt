@@ -41,9 +41,8 @@ I am a Software Engineering Graduate, AI & Research enthusiast, and a Swimmer wi
         <br><br>
         <b>IDE's:</b>
         <br><br>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/></code> 
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/></code> 
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png"/></code>
         <br><br>
         <b>Operating systems:</b>
