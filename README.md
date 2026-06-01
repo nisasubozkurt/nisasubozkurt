@@ -4,8 +4,7 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m Nisasu Bozkurt
 
 <br />
-Software Engineering Student Year 3, Research enthusiast, and Swimmer with an outstanding track record. She is extremely talented in English, Research, Sports, Project Management and Teamwork. She has nearly 15 certificates from the Turkish Language Institution and the Ministry of Youth and Sports.
-To succeed is to have two ears for people who are not wanted to be heard, and two eyes for people who are not wanted to be seen, so I will start being a successful person as a good person.
+I am a Software Engineering Graduate, AI & Research enthusiast, and a Swimmer with an outstanding track record. I am highly skilled in Backend Development, English, AI Technologies, Project Management, and Teamwork. 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
