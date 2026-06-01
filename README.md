@@ -49,6 +49,7 @@ I am a Software Engineering Graduate, AI & Research enthusiast, and a Swimmer wi
         <br><br>
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png"/></code>
         <code><img height="40" src="https://preview.redd.it/ne6ukkej06t71.png?auto=webp&s=fbdc1cb1d60306fba3098f7b75a8e01812a97ada"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
         <br><br>
         <b>Tools and Frameworks:</b>
         <br><br>
@@ -56,6 +57,10 @@ I am a Software Engineering Graduate, AI & Research enthusiast, and a Swimmer wi
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
         <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></code>
         <br>
       </p>
 </details>
